@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(73, 0, 0);
+    padding: 20px;
+    height: 80px;
+    font-size: 23px;
+    font-family: ;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+.barra{
+    float: right;
+}
+.barra a{
+    text-decoration: none;
+    color: black;
+}
