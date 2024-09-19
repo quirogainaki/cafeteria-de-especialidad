@@ -420,7 +420,144 @@ h2{
 .font-weight-bold{
     text-shadow: 1px 1px 1px black;
 }
-
+.col-9{
+    height: 200px;
+}
+a{
+    bottom: 5px;
+    position: absolute;
+}
+.medio{
+    bottom: 90px;
+    right: 80px;
+    position: absolute;
+    font-size: 30px;
+}
+.cuadrado1{
+    background-image: url(img/coffee-1548723_1280.jpg);
+    object-fit: cover;
+    background-size: cover;
+}
+.cuadrado2{
+    background-image: url(img/coffee-5037800_1280.jpg);
+    object-fit: cover;
+    background-size: cover;
+    background-position: bottom;
+}
+.cuadrado3{
+    background-image: url(img/pexels-michael-burrows-7125583.jpg);
+    object-fit: cover;
+    background-size: cover;
+    background-position: right;
+    /*margin: 0 auto;
+    transition: 0.5s;*/
+}
+/*.cuadrado3:hover{
+    transform: scale(0.9);
+    border-radius: 13px;
+}*/
+.columna3{
+    background-color: rgba(238, 155, 0, 0.801);
+    border-radius: 20px;
+}
+.columna{
+    background-color: rgba(187, 61, 3, 0.801);
+    border-radius: 20px;
+}    
+.columna2{
+    background-color: rgba(202, 103, 2, 0.801);
+    border-radius: 20px;
+}
+h4{
+    font-size: 35px !important;
+}
+.sec1{
+    padding: 20px;
+}
+.sobrenosotros{
+    padding: 0;
+}
+.molinillo{
+    height: 80px;
+}
+.sns2{
+    height: 60px;
+}
+.sns3{
+    height: 200px;
+}
+.rectangulo1{
+    background-image: url(img/coffee-1839734_1280.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: center;
+}
+.rectangulo2{
+    background-image: url(img/coffee-grinders-1377954_1280.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: center;
+}
+.rectangulo3{
+    background-image: url(img/coffee-grinder-1704796_1280.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: bottom;
+}
+.rectangulo4{
+    background-image: url(img/the-brew-kettle-3540132_1280.png);
+    object-fit: contain;
+    background-size: cover;
+    background-position: center;
+}
+.rectangulo5{
+    background-image: url(img/coffee-1009621_1280.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: center;
+}
+.rectangulo6{
+    background-image: url(img/pexels-diva-plavalaguna-5711229.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: center right;
+}
+.rectangulo7{
+    background-image: url(img/latte-macchiato-646273_1280.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: center;
+}
+.rectangulo8{
+    background-image: url(img/pexels-maksgelatin-4354625.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: top;
+}
+.rectangulo9{
+    background-image: url(img/pexels-viktoria-alipatova-1083711-2074127.jpg);
+    object-fit: contain;
+    background-size: cover;
+    background-position: bottom;
+}
+.elementos{
+    color: rgba(238, 155, 0, 0.801);
+}
+.seccionsn{
+    background-image: url(img/coffee-5447420_1280.jpg);
+    height: 1100px;
+    padding: 10px;
+}
+.titulosec{
+    height: 70px;
+    background-color: rgba(187, 61, 3, 0.801);
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    text-transform: uppercase
+}
 
   /*finaliza boostrap*/
   /*@media only screen and (min-width: 480px){
