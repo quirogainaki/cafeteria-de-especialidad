@@ -558,6 +558,22 @@ h4{
     font-size: 20px;
     text-transform: uppercase
 }
+.nombreproducto1{
+    height: 100px;
+}
+.filacatalogo{
+    height: 300px;
+}
+.fotoproducto{
+    background-image: url(/img/raw-burlap-sack-black-spoon.jpg);
+    object-fit: contain;
+    background-position: center;
+    background-size: contain;
+}
+.productoss2{
+    width: 100%;
+}
+@media
 
   /*finaliza boostrap*/
   /*@media only screen and (min-width: 480px){
