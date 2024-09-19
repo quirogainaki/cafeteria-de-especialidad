@@ -1,0 +1,6 @@
+intente aplicar las media queries pero no pude, me confie que era mas facil y se me empezo a romper la ubicacion de cada elemento, lo entrego asi para al menos no fallar con el tiempo!
+la proxima entrega me esmerare mas!
+intente aplicar la media querie de bootstrap en el archivo html de productos.html
+pude jugar y familiarizarme bastanta con bootstrap y su grid sistem en los ultimos dias asi que bueno espero su devolucion!
+tambien le agarre bastante bien la mano a git y github asi que contento con estas cuestiones pero las media queries me superaron!
+voy a ponerme a practicar bastante el fin de semana asi puedo finalizar bien el curso!
